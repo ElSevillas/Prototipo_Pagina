@@ -104,6 +104,7 @@ input
     margin: auto;
     cursor: pointer;
     transition: transform 0.55s ease;
+    border-radius: 10px;
 }
 
 .cards .card
